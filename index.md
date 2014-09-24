@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ChenJun(Zhu8)的个人网站
+title: hupantingxue的个人网站
 tagline: 浮生志
-description: ChenJun(Zhu8)的个人网志
+description: hupantingxue的个人网志
 jumbotron__:
-    title: ChenJun(Zhu8)的个人网站
+    title: hupantingxue的个人网站
     body: 我也不知道这是干啥的，擦！
 services: 
   - name: WeiBo
